@@ -1,5 +1,5 @@
 # TextEditor
-Backend code developed for the UCSD MOOC on Data Structures. The TextEditor has features like 
+Backend code developed for the UCSD MOOC on Data Structures. All the front end code was provided by the UCSD MOOC team. I only implemented the backend code for the features listed below. The TextEditor has features like 
 ```
 1. Autocompletion/Word Suggestion
 2. Spelling Suggestions
